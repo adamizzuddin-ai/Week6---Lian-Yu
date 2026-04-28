@@ -6,7 +6,7 @@ Room link : https://tryhackme.com/room/lianyu
 # 1. Scanning the IP
   
   ```bash
-  nmap -sC -sV 10.10.228.22 
+  nmap -sC -sV -T4 10.49.141.87 
 ```
   
   <img width="983" height="677" alt="8a115fa7-53b5-45c4-8115-e9927e74d345" src="https://github.com/user-attachments/assets/3ff9cfda-5c53-4de3-9673-a361d46f4f06" />
